@@ -5,7 +5,6 @@ The C program filedircount.c is to created for finding the count of Files and Di
 - [Features]
 - [Installation]
 - [Usage]
-- [License]
 
   ## Introduction
   This program is designed to count the total number of files and directories in a given path.
@@ -18,13 +17,13 @@ The C program filedircount.c is to created for finding the count of Files and Di
   ## Installation
   To compile and run this project you need to have GCC installed on your machine.
   **Clone the repo :**
-  git clone https://github.com/Abulhasan45/FileDircount.git
-  cd FileDircount
+  -git clone https://github.com/Abulhasan45/FileDircount.git
+  -cd FileDircount
   **Compile the code :**
-  gcc <c program> -o <XXX>
+  -gcc filedircount.c -o filedircount
 
   ## Usage
-  To use the program execute the below command
-  ./<exe> /path/to/directory
+  -To use the program execute the below command
+  -./filedircount /path/to/directory
  
   
